@@ -1,5 +1,3 @@
-FIREBASE_TOKEN: 1/JuGQC_TNBYUZBFn9XEMGd1-vj4D6AlbIXWIQkBcufWk
-PROJECT_ID: deploy-react-firebase-ex-62ac2
 cache:
   directories:
   - node_modules # cache node_module
